@@ -1,0 +1,8 @@
+[package]
+name = "batterykill"
+version = "0.1.0"
+authors = ["Grzegorz Antoniak <ga@anadoxin.org>"]
+
+[dependencies]
+regex="*"
+libc="*"
